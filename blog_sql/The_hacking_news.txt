@@ -1,0 +1,5 @@
+Dans cet exercice, il y aura 4 tableaux :
+-un tableau utilisateurs contenant la liste des utilisateurs;
+-un tableau liens contenant la liste des liens postés par les utilisateurs, et l'id des utilisateurs par lien;
+-un tableau commentaires contenant la liste des contenus des commentaires, selon les utilisateurs qui ont commentés, et l'id des liens.
+-un tableau réponses contenant la liste des réponses aux commentaires, selon l'id des commentaires.

@@ -1,0 +1,3 @@
+Pour cet exercice, il y aura deux tableaux :
+-un tableau de cours, contenant un titre et une description;
+-un tableau de leçons, contenant un titre, un body, et l'id du cours correspondant à la leçon.

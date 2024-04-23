@@ -1,0 +1,4 @@
+Dans cet exercice, il y aura 3 tableaux :
+-un tableau des utilisateurs contenant la liste des noms des utilisateurs;
+-un tableau des pins contenant la liste des pins créés, la liste des url des images des pins, et la liste des pins créés par utilisateurs;
+-un tableau commentaires contenant la liste des pins créés, le contenu des commentaires et les commentaires des pins par utilisateur.

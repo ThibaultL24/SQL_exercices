@@ -1,0 +1,3 @@
+dans cet exercice, il y aura 2 tableaux :
+un tableau students contenant la liste des élèves.
+un tableau cours contenant le contenu des cours et les élèves inscrits a chaque cours.
